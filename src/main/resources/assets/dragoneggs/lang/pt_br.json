@@ -1,0 +1,10 @@
+{
+  "itemGroup.dragoneggstab": "Mod Ovos de Dragão",
+
+  "item.dragoneggs.dragon_bone" : "Osso de dragão",
+  "item.dragoneggs.dragon_scale" : "Escama de dragão",
+  "item.dragoneggs.dragon_egg" : "Ovo de dragão",
+  "item.dragoneggs.dragon_journal" : "Diário de dragões",
+
+  "block.dragoneggs.dragon_bone_block" : "Bloco de ossos de dragão"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+        "item": "dragoneggs:dragon_scale"
+    },
+    "X": {
+      "item": "minecraft:turtle_egg"
+    }
+  },
+  "result": {
+    "item": "dragoneggs:dragon_egg"
+  }
+}

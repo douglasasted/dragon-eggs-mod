@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#XX",
+    "XXY"
+  ],
+  "key": {
+    "#": {
+      "item": "dragoneggs:dragon_bone"
+    },
+    "X": {
+      "item": "minecraft:leather"
+    },
+    "Y": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "dragoneggs:dragon_scale"
+  }
+}

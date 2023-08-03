@@ -1,0 +1,10 @@
+{
+  "itemGroup.dragoneggstab": "Dragon Eggs Mod",
+
+  "item.dragoneggs.dragon_bone" : "Dragon Bone",
+  "item.dragoneggs.dragon_scale" : "Dragon Scale",
+  "item.dragoneggs.dragon_egg" : "Dragon Egg",
+  "item.dragoneggs.dragon_journal" : "Dragon Journal",
+
+  "block.dragoneggs.dragon_bone_block" : "Dragon Bone Block"
+}
